@@ -7,7 +7,7 @@ Als je in deze repo op **festival.json** klikt, en vervolgens rechts op de butto
 let data;
 
 function preload(){
-    data = loadJSON("https://raw.githubusercontent.com/mia-mmt2-2223/leesfestival/main/festival.json");
+    data = loadJSON("https://raw.githubusercontent.com/mia-mmt2-2324/leesfestival/main/festival.json");
 }
 
 function setup(){
